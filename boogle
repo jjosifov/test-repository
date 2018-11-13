@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="utf-8"/>
+        <title>Boogle</title>
+            <link rel="stylesheet" href="styleboogle.css"/>
+    </head>
+
+    <body>
+      <div class="header">
+        GMail Images
+      </div>
+      <div class="search">
+        <div class=" h1">
+
+        <span style="color: blue">B</span>
+        <span style="color: red">o</span>
+        <span style="color: yellow"> o</span>
+        <span style="color: blue">g</span>
+        <span style="color: green">l</span>
+        <span style="color: red">e</span>
+    </div>
+        <input size="50"/>
+
+        <div class="buttoninaline">
+        <div class="buttoninaline1">
+  <button class="buttoninaline">Iskanje boogle</button>
+  <button class="buttoninaline1">Klik na srečo</button>
+</div>
+</div>
+
+      <div class="footer">
+        <table border="2">
+            <tr>
+                <td>  Zasebnost</td>
+                <td>Pogoji</td>
+                <td>Nastavitve</td>
+            </tr>
+        </table>
+      </div>
+    </body>
+</html>
